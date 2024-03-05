@@ -3,7 +3,7 @@ package fabricio.com.entities.bank;
 import java.util.Random;
 
 public class Client {
-    private String holder; 
+    private String holder;
     private float balance;
     private int accNumber;
 
